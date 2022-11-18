@@ -8,4 +8,3 @@
 * [Ruby + RSpec](https://github.com/lean-mind/ruby-katas-template)
 * [Python + PyTest](https://github.com/lean-mind/python-katas-template)
 * [Go + Testify](https://github.com/lean-mind/go-katas-template)
-* [PHP + PHPUnit]()
