@@ -10,6 +10,7 @@ You can click the 🚀 emoji to create a new repository from the template.
 | [🔵 TypeScript](https://github.com/lean-mind/typescript-boilerplate) | [🚀](https://github.com/lean-mind/typescript-boilerplate/generate) | TypeScript, Jest |
 | [🟡 JavaScript](https://github.com/lean-mind/javascript-katas-template) | [🚀](https://github.com/lean-mind/javascript-katas-template/generate) | Javascript, Jest |
 | [🧩 Kotlin](https://github.com/lean-mind/kotlin-katas-template) | [🚀](https://github.com/lean-mind/kotlin-katas-template/generate) | Kotlin, JUnit5, AssertJ |
+| [🔺 Scala](https://github.com/lean-mind/scala-katas-template) | [🚀](https://github.com/lean-mind/scala-katas-template/generate) | Scala, Scalatest |
 | [☕ Java](https://github.com/lean-mind/java-katas-template) | [🚀](https://github.com/lean-mind/java-katas-template/generate) | Java11, JUnit5, AssertJ |
 | [➕ C++](https://github.com/lean-mind/cpp-katas-template) | [🚀](https://github.com/lean-mind/cpp-katas-template/generate) | C++, GoogleTest |
 | [🟪 C#](https://github.com/lean-mind/csharp-katas-template) | [🚀](https://github.com/lean-mind/csharp-katas-template/generate) | C# .NET 7.0, xUnit, FluentAssertions, Docker |
